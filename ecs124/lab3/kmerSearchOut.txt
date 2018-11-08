@@ -1,0 +1,41 @@
+Changes: It looks for similarities in the kmers, and if the longest length is greater than 5, then it prints a message that a good HSP has been found between Q and S.
+
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 5
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 5
+Found a match from S in Q!
+Longest right match is: 7
+Found a good HSP to the right of length: 7
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 6
+Found a good HSP to the right of length: 6
+Longest left match is: 5
+Found a match from S in Q!
+Longest right match is: 5
+Longest left match is: 6
+Found a good HSP to the left of length: 6
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 7
+Found a good HSP to the left of length: 7
+Found a match from S in Q!
+Longest right match is: 7
+Found a good HSP to the right of length: 7
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 6
+Found a good HSP to the right of length: 6
+Longest left match is: 5
+Found a match from S in Q!
+Longest right match is: 5
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 5

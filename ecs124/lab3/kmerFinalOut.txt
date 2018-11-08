@@ -1,0 +1,51 @@
+Changes: This incorporates the $/=""; operator, and makes an array for the query so that we can search the similar kmer locations much faster than before!
+
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 5
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 4
+Longest left match is: 5
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 7
+Found a good HSP to the right of length: 7
+Longest left match is: 4
+Longest left match is: 4
+Longest left match is: 4
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 6
+Found a good HSP to the right of length: 6
+Longest left match is: 4
+Longest left match is: 5
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 5
+Longest left match is: 4
+Longest left match is: 4
+Longest left match is: 6
+Found a good HSP to the left of length: 6
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 4
+Longest left match is: 5
+Longest left match is: 4
+Longest left match is: 4
+Longest left match is: 7
+Found a good HSP to the left of length: 7
+Found a match from S in Q!
+Longest right match is: 7
+Found a good HSP to the right of length: 7
+Longest left match is: 4
+Longest left match is: 4
+Longest left match is: 4
+Found a match from S in Q!
+Longest right match is: 6
+Found a good HSP to the right of length: 6
+Longest left match is: 5
+Longest left match is: 4
