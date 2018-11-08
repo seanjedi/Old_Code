@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> 
+<svg width="570" height="570" viewBox="0 0 550 550" 
+xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" >
+<g transform="matrix(1,0,0,-1,50,550)">
+<rect fill="white" stroke="black" x="0" y="0" width="500" height="500"/>
+<rect fill="yellow" stroke="black" x="0" y="350" width="50" height="50"/>
+<rect fill="yellow" stroke="black" x="50" y="350" width="50" height="50"/>
+<rect fill="yellow" stroke="black" x="0" y="400" width="50" height="50"/>
+<rect fill="yellow" stroke="black" x="50" y="400" width="50" height="50"/>
+<rect fill="blue" stroke="black" x="250" y="350" width="50" height="50"/>
+<rect fill="blue" stroke="black" x="250" y="400" width="50" height="50"/>
+<rect fill="blue" stroke="black" x="200" y="400" width="50" height="50"/>
+<rect fill="blue" stroke="black" x="150" y="400" width="50" height="50"/>
+<rect fill="cyan" stroke="black" x="450" y="300" width="50" height="50"/>
+<rect fill="cyan" stroke="black" x="450" y="350" width="50" height="50"/>
+<rect fill="cyan" stroke="black" x="450" y="400" width="50" height="50"/>
+<rect fill="cyan" stroke="black" x="450" y="450" width="50" height="50"/>
+<rect fill="orange" stroke="black" x="50" y="150" width="50" height="50"/>
+<rect fill="orange" stroke="black" x="0" y="150" width="50" height="50"/>
+<rect fill="orange" stroke="black" x="50" y="100" width="50" height="50"/>
+<rect fill="orange" stroke="black" x="50" y="50" width="50" height="50"/>
+<rect fill="purple" stroke="black" x="250" y="200" width="50" height="50"/>
+<rect fill="purple" stroke="black" x="300" y="250" width="50" height="50"/>
+<rect fill="purple" stroke="black" x="300" y="200" width="50" height="50"/>
+<rect fill="purple" stroke="black" x="300" y="150" width="50" height="50"/>
+<rect fill="red" stroke="black" x="200" y="0" width="50" height="50"/>
+<rect fill="red" stroke="black" x="250" y="0" width="50" height="50"/>
+<rect fill="red" stroke="black" x="150" y="50" width="50" height="50"/>
+<rect fill="red" stroke="black" x="200" y="50" width="50" height="50"/>
+<rect fill="lime" stroke="black" x="350" y="50" width="50" height="50"/>
+<rect fill="lime" stroke="black" x="400" y="50" width="50" height="50"/>
+<rect fill="lime" stroke="black" x="400" y="100" width="50" height="50"/>
+<rect fill="lime" stroke="black" x="450" y="100" width="50" height="50"/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+Prints a hello world statement
+
+#include<iostream>
+using std::cout;
+
+int main()
+{
+  cout << "Hello ECS40 from 26722\n";
+}
