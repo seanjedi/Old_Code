@@ -1,0 +1,14 @@
+#1
+c = 1
+#2
+(2(2.8^3 - 1)/45) - ((2.8^2 -1)/15)^2
+#3a
+0.1
+#3b
+pi[1](0.5)
+#4
+integrate((cube(x-mean(x)))/(integrate(sqrt(variance(x)))))
+#5
+
+#6
+pnasty(x,nastyparam) = (dnasty(x) - nastyparam)

@@ -1,0 +1,16 @@
+#1
+The issue is the differing class types when they try to return, since integrate retuns an object and that would confuse the '+' operator.
+#2a
+4/9
+#2b
+3(70)/9
+#2c
+((4(70)+69+72)/9)-((70+69+72)/9)*(3(70)/9)
+#3a
+211/3
+#3b
+14/9
+#3c
+95%
+#4
+1/2

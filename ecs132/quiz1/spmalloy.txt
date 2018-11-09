@@ -1,0 +1,16 @@
+#1
+i and iv 
+#2
+0.25
+#3a
+nreps 
+#3b
+nnodes 
+#3c
+0 
+#3d 
+1 
+#3e
+(nheads(nc-1,r)) + (tmp/nc)
+#4
+p(X2=2)

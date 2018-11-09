@@ -1,0 +1,16 @@
+#1
+1800
+#2
+qnorm(0.168,10,2)
+#3a
+c = 1/64
+#3b
+4/5
+#3c
+1/320
+#3d
+rt3 <-function(n){runif(n,0,4)}
+#4
+EX = kE(X^4)= Var(X1)+ [E(X)]^2 = 2var(x) = 2k
+#5
+Pins are the possible distribution of the experiment, or the columns in a notebook sense. Balls are the inderpendent random varaibles, or the rows in a notebook sense.

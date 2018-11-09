@@ -1,0 +1,15 @@
+#1
+(1-0.1)/(0.1^2)
+#2
+var(T)=E(x-3.0^2)
+#3
+Eigenvector
+#4
+if(k>10) k <- k-10; if(k<=10) k <- 0;
+#5a
+da(i,c)*da(i,d)
+#5b
+if(c >= d) pa(m,c); else pa(m, d);
+#5c
+for(i in 1:10){w <- c+d; da(m,w)}
+
